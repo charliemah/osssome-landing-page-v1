@@ -16,7 +16,7 @@ function App() {
       </div>
       <div className="tagline">
         <h3 className="highlight">We help awesome talents and companies</h3>
-        <h3>work on most important things first.</h3>
+        <h3>focus on the most important things first.</h3>
       </div>
     </>
   )
