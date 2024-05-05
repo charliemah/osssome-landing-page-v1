@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+    "source": "/demos/osomeweekend",
+    "destination": "https://osomeweekend.super.site/"
+    }
+  ]
+}
